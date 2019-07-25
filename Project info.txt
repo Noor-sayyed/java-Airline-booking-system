@@ -1,0 +1,8 @@
+
+
+Sayyed Noor ul Hasan-Airline Booking System.
+
+Airline Booking System:-
+	-is a flight booking software where one can book flight ticket by giving the arrival location and departure location.
+	-if you want to cancel the flight you can do it with the delete function implemented by providing your flight no. 
+	-you can view the flights and can check for your flight details.
